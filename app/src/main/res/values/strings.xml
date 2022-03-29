@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TileService</string>
+    <string name="tile_name">music</string>
+</resources>
